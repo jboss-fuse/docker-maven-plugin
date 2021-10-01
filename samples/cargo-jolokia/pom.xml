@@ -35,7 +35,7 @@
   <properties>
     <tomcat>7.0</tomcat>
     <image>consol/tomcat-${tomcat}</image>
-    <jolokia.version>1.7.1</jolokia.version>
+    <jolokia.version>1.7.1.redhat-00001</jolokia.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
