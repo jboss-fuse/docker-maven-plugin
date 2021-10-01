@@ -37,7 +37,7 @@
     <server.version>8</server.version>
     <server.name>tomcat</server.name>
     <image>docker.io/fabric8/${server.name}-${server.version}:latest</image>
-    <jolokia.version>1.7.1</jolokia.version>
+    <jolokia.version>1.7.1.redhat-00001</jolokia.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
